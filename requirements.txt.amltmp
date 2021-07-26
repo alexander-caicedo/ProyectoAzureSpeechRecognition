@@ -74,7 +74,7 @@ SoundFile==0.10.3.post1
 tensorflow==2.5.0rc0
 tensorflow-estimator==2.3.0
 toolz==0.11.1
-torch==1.7.0+cu101
+torch==1.7.1
 torch-tb-profiler==0.2.0
 torchaudio==0.7.0
 torchvision==0.8.1+cu101
